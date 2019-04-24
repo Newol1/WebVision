@@ -5,7 +5,7 @@
   на корневую директорию проекта http://prntscr.com/ng14er
 
 2.Либо же запустите залитый на хостинг сайт по ссылке - http://newol.beget.tech/web_vision/
-  Код лежит на Github - 
+  Код лежит на Github - https://github.com/Newol1/WebVision
 
 
 
